@@ -11,7 +11,11 @@ def fourth_challenge
           :age => "17",
           :attitude => "worried"
         },
-        {}
+        {
+          :name => "",
+          :age => "",
+          :attitude => ""
+        }
       ]
    }, 
    :capulet => {
